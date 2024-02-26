@@ -15,6 +15,10 @@
         {
           "id": 8,
           "username": "maverick"
+        },
+        {
+          "id": 100,
+          "username": "testUser"
         }
       ]
     },
